@@ -3,7 +3,7 @@ This website and the database is developed considering the need of a common meta
 
 #### The project uses PHP, MySQL, HTML, CSS and Bootstrap to develop a responsive user friendly web application.
 
-Import the sql files from the folder 'sql files' into PHPMyAdmin / import the csv files from the folder 'csv files' into PHPMyAdmin.
+Import the sql files from the folder 'SQL files' into PHPMyAdmin / import the csv files from the folder 'csv files' into PHPMyAdmin.
 
 ## Information sources
 These files contain the data that has been created using information mainly from 4 different databases on allergens.
