@@ -1,9 +1,21 @@
 ## Database-generation-for-allergens
 This website and the database is developed considering the need of a common metadatabase that consolidates data from some existing databases on allergens with additional information from different reputed journals and databases added manually and data processed computationally.  There is no existing database or metadetabase of Allergens provide such a comprehensive database of allergen related information. Additional features and functionalities have been added to make it easy to read, access, analyse and further use the data.
 
-#### The project uses PHP, MySQL, HTML, CSS and Bootstrap to develop a responsive user friendly web application.
+The project uses PHP, MySQL, HTML, CSS and Bootstrap to develop a responsive user friendly web application.
 
-Import the sql files from the folder 'SQL files' into PHPMyAdmin / import the csv files from the folder 'csv files' into PHPMyAdmin.
+Some functionalities included in the project include 
+
+1. filtering text for different fields.
+
+This features allows users to display only limited data entries according to their selection of filters for different columns. Pattern matching instead of exact full text match is used, thus increasing the database usability.
+
+2. Filtering fields according to starting characters.
+
+This feature allows users to select a field and a letter from the drop-down menus to display only those data rows which have the particular field starting with the specific letter only.
+
+3. Option to download the complete database
+
+#### Import the sql files from the folder 'SQL files' into PHPMyAdmin / import the csv files from the folder 'csv files' into PHPMyAdmin.
 
 ## Information sources
 These files contain the data that has been created using information mainly from 4 different databases on allergens.
