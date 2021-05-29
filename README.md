@@ -9,15 +9,11 @@ Import the sql files from the folder 'sql files' into PHPMyAdmin / import the cs
 These files contain the data that has been created using information mainly from 4 different databases on allergens.
 
 1. Comprehensive Protein Allergen Resource (COMPARE)
-MAINTAINED BY : Protein Allergens, Toxins and Bioinformatics Committee, Health and Environmental Sciences Institute
 
 2.	AllergenOnline (FARRP Allergen Database)
-MAINTAINED BY: Food Allergy Research and Resource Program, Department of Food Science and Technology, University of Nebraska-Lincoln, Lincoln, NE, USA
 
 3.	WHO/IUIS Allergen Nomenclature Database
-MAINTAINED BY: WHO/IUIS Allergen Nomenclature Sub-Committee
 
 4.	Allergome
-MAINTAINED BY: Allergy Data Laboratories, Latina, Italy.
 
 Additionally the data from other reputed jounals and sources has been processed to make a comphrehensive database on allergens.
