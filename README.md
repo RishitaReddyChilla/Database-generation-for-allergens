@@ -30,6 +30,9 @@ Additionally the data from other reputed jounals and sources has been processed 
 ### Main Database page
 ![image](https://user-images.githubusercontent.com/66554341/120061305-3bfe5980-c07a-11eb-88bf-abf4493b2d1d.png)
 
+### Database Table
+![image](https://user-images.githubusercontent.com/66554341/120061514-466d2300-c07b-11eb-9c68-5f21969389db.png)
+
 ### Tutorial page
 ![image](https://user-images.githubusercontent.com/66554341/120061422-c8108100-c07a-11eb-8a55-64a6b9ff7888.png)
 
