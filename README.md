@@ -3,7 +3,9 @@ This website and the database is developed considering the need of a common meta
 
 The project uses PHP, MySQL, HTML, CSS and Bootstrap to develop a responsive user friendly web application.
 
-Functionalities included in the project include 
+## Functionalities
+
+Functionalities included in the project are
 
 1. filtering text for different fields.
 
@@ -16,6 +18,8 @@ This feature allows users to select a field and a letter from the drop-down menu
 3. Option to download the complete database
 
 [Go to main database page image to view the UI for these functionalities ](#main-database-page)
+
+## Guide
 
 Create a new folder in htdocs folder of xampp folder in your system. Download all the files from this repo and store these in this newly created folder.
 #### Import the sql files from the folder 'SQL files' into PHPMyAdmin / import the csv files from the folder 'csv files' into PHPMyAdmin.
