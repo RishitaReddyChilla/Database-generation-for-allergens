@@ -3,9 +3,7 @@ This website and the database is developed considering the need of a common meta
 
 The project uses PHP, MySQL, HTML, CSS and Bootstrap to develop a responsive user friendly web application.
 
-Some functionalities included in the project include 
-
-[Go to main database page image to view the UI for these functionalities ](#main-database-page)
+Functionalities included in the project include 
 
 1. filtering text for different fields.
 
@@ -16,6 +14,8 @@ This features allows users to display only limited data entries according to the
 This feature allows users to select a field and a letter from the drop-down menus to display only those data rows which have the particular field starting with the specific letter only.
 
 3. Option to download the complete database
+
+[Go to main database page image to view the UI for these functionalities ](#main-database-page)
 
 #### Import the sql files from the folder 'SQL files' into PHPMyAdmin / import the csv files from the folder 'csv files' into PHPMyAdmin.
 
