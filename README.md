@@ -18,10 +18,10 @@ These files contain the data that has been created using information mainly from
 
 Additionally the data from other reputed jounals and sources has been processed to make a comphrehensive database on allergens.
 
-###Homepage
+### Homepage
 ![image](https://user-images.githubusercontent.com/66554341/120061130-5e43a780-c079-11eb-887e-f8adbb3bfa8d.png)
 
-###About Database page
+### About Database page
 ![image](https://user-images.githubusercontent.com/66554341/120061215-c3979880-c079-11eb-9ac9-fcb80e0c702c.png)
 
 
