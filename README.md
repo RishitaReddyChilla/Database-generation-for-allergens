@@ -5,6 +5,8 @@ The project uses PHP, MySQL, HTML, CSS and Bootstrap to develop a responsive use
 
 Some functionalities included in the project include 
 
+[Go to main database page image to view the UI for these functionalities ](#main-database-page)
+
 1. filtering text for different fields.
 
 This features allows users to display only limited data entries according to their selection of filters for different columns. Pattern matching instead of exact full text match is used, thus increasing the database usability.
