@@ -17,6 +17,7 @@ This feature allows users to select a field and a letter from the drop-down menu
 
 [Go to main database page image to view the UI for these functionalities ](#main-database-page)
 
+Create a new folder in htdocs folder of xampp folder in your system. Download all the files from this repo and store these in this newly created folder.
 #### Import the sql files from the folder 'SQL files' into PHPMyAdmin / import the csv files from the folder 'csv files' into PHPMyAdmin.
 
 ## Information sources
