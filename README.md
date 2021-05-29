@@ -14,6 +14,6 @@ These files contain the data that has been created using information mainly from
 
 3.	WHO/IUIS Allergen Nomenclature Database
 
-4.	Allergome
+4.	Allergome Database
 
 Additionally the data from other reputed jounals and sources has been processed to make a comphrehensive database on allergens.
