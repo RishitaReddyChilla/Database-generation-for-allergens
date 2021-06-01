@@ -40,22 +40,22 @@ Additionally the data from other reputed jounals and sources has been processed 
 ### Homepage
 This page gives a brief introduction  about the generated database and also the motivation behind executing this project.
 
-![image](https://user-images.githubusercontent.com/66554341/120061130-5e43a780-c079-11eb-887e-f8adbb3bfa8d.png)
+![image](https://user-images.githubusercontent.com/66554341/120322161-bbea2500-c301-11eb-91f5-f1bde8aa94ad.png)
 
 ### About Database page
 This page is included to describe about all the databases from which the information was collected to generate a completely new database.  It gives an overview about all the 6 databases that have been used to collect information for the project.
 
-![image](https://user-images.githubusercontent.com/66554341/120061215-c3979880-c079-11eb-9ac9-fcb80e0c702c.png)
+![image](https://user-images.githubusercontent.com/66554341/120328283-4e8dc280-c308-11eb-8080-65cd56e545f9.png)
 
 ### About Columns page
 This page gives an overview about all the columns that have been included in the database table.
 
-![image](https://user-images.githubusercontent.com/66554341/120061280-1f622180-c07a-11eb-9ca7-d9c95f57de32.png)
+![image](https://user-images.githubusercontent.com/66554341/120328483-77ae5300-c308-11eb-8746-74ef77355e89.png)
 
 ### Main Database page
 This is the main page of the website that which displays the complete database that has been created along with the added features of searching, sorting and downloading the database. 
 
-![image](https://user-images.githubusercontent.com/66554341/120061305-3bfe5980-c07a-11eb-88bf-abf4493b2d1d.png)
+![image](https://user-images.githubusercontent.com/66554341/120328857-e095cb00-c308-11eb-8770-c76f8ccad30b.png)
 
 ### Database Table
 This is a part of the main database page which displays the whole database that has been created and if the filters are applied to the database the tabel is displayed accordingly.
@@ -65,7 +65,7 @@ This is a part of the main database page which displays the whole database that 
 ### Tutorial page
 This page is a complete guide the user about the walkthrough of the website. This page contains all the information about the different functionalities included in the website. This also gives the user a gist about the whole project.
 
-![image](https://user-images.githubusercontent.com/66554341/120061422-c8108100-c07a-11eb-8a55-64a6b9ff7888.png)
+![image](https://user-images.githubusercontent.com/66554341/120328926-f60af500-c308-11eb-9481-89df8bb2b9be.png)
 
 
 
