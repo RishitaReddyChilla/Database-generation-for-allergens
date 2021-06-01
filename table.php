@@ -40,7 +40,7 @@
   </div>
 </div>
 <header class="w3-container w3-green w3-center" style="padding: 70px 50px 16px">
-  <h1 class="w3-margin w3-xxlarge">DATABASE</h1>
+  <h2 class="w3-margin w3-xxlarge">Alleropedia</h2>
   <p class="w3-xlarge">Comprehensive database for Allergens</p>
 </header>
 <?php
