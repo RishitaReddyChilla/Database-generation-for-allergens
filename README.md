@@ -40,7 +40,7 @@ Additionally the data from other reputed jounals and sources has been processed 
 ### Homepage
 This page gives a brief introduction  about the generated database and also the motivation behind executing this project.
 
-![image](https://user-images.githubusercontent.com/66554341/120322161-bbea2500-c301-11eb-91f5-f1bde8aa94ad.png)
+<!--![image](https://user-images.githubusercontent.com/66554341/120322161-bbea2500-c301-11eb-91f5-f1bde8aa94ad.png)-->
 
 ### About Database page
 This page is included to describe about all the databases from which the information was collected to generate a completely new database.  It gives an overview about all the 6 databases that have been used to collect information for the project.
