@@ -4,7 +4,7 @@
  $dbpass = "";
  $db = "biological_database";
  $conn = new mysqli($dbhost, $dbuser, $dbpass,$db) ;
- 
+ /*Connection*/
  if (mysqli_connect_errno())
   {
   echo "Failed to connect to MySQL: " . mysqli_connect_error();
