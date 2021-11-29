@@ -153,7 +153,7 @@
         <option value="W">W</option>
         <option value="X">X</option>
         <option value="Y">Y</option>
-        <option value="Z">Z</option>
+        <option value="Z">Z </option>
     </select>
 </div>
     <input class="sort_button" type="submit" name="sorting" value="Choose options"><br> <br>
