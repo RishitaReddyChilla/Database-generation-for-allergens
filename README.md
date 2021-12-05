@@ -67,5 +67,5 @@ This page is a complete guide the user about the walkthrough of the website. Thi
 
 <!--![image](https://user-images.githubusercontent.com/66554341/120328926-f60af500-c308-11eb-9481-89df8bb2b9be.png)-->
 
-
-
+### Disclaimer
+_The data in this database is obtained from various reputed legitimate sources. We have taken reasonable care to ensure that, and to the best of our knowledge, material information contained herein is in accordance with the facts and contains no omission likely to affect its understanding. Please note that we make no assurance that the presented data is free from errors. We do not intend on making any representation or warranty, express or implied, as to the accuracy or completeness of this database and will not have any liability towards any other person resulting from your use of this data.The information contained herein may be subject to changes without prior notice. We do not accept any form of liability, neither legally nor financially, for loss (direct or indirect) caused by the understanding and/or use of this report or its content._
